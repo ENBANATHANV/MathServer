@@ -155,9 +155,13 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
+
+
 ![alt text](<Screenshot (101).png>)
 
 ## HOMEPAGE:
+
+
 ![alt text](<Screenshot (100).png>)
 
 ## RESULT:
