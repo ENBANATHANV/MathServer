@@ -1,0 +1,43 @@
+.edge
+ { display: block;
+    margin-top: 400px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-color: red;
+   background-color: yellow;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    width: 25%;
+    flex-direction: column;
+    
+  }
+  body{
+    background-color: blueviolet;
+  }
+div.formelt
+{
+    font-size: 150%;
+   color: red;
+  
+    
+}
+div.box
+{
+  color: blue;
+  text-align: center;
+  font-style: unset;
+  
+}
+input
+{
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 3px;
+  width: 50%;
+  align-items: center;
+}
+
